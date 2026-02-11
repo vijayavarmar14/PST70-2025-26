@@ -31,17 +31,6 @@ This repository contains Java source code and related materials for the PST70 co
    javac *.java
    ```
 
-## Project Structure
-
-```
-PST70-2025-26/
-├── src/
-│   └── (Java source files)
-├── bin/
-│   └── (Compiled class files)
-├── README.md
-└── ...
-```
 
 ## Usage
 
@@ -53,11 +42,7 @@ java -cp bin MainClass
 
 Replace `MainClass` with the appropriate main class name for your project.
 
-## Features
 
-- [Add your project features here]
-- [Feature 2]
-- [Feature 3]
 
 ## Documentation
 
